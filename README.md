@@ -13,7 +13,7 @@ The Command Explorer App is a graphical user interface (GUI) application built u
 ## Prerequisites
 
 - Python 3.x
-- `customtkinter` library
+- [`customtkinter`](https://github.com/TomSchimansky/CustomTkinter) library
 - Microsoft Access Database Driver
 
 ## Usage
